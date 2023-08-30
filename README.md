@@ -2,8 +2,6 @@
 
 Each lecture is composed of a [Jupyter](https://jupyter.org/) notebook.
 
-The lecture syllabus is here: https://github.com/cormacflanagan/intro_python/blob/main/lecture_notebooks/L--%20Syllabus.ipynb
-
 Many thanks to Ben Paten for the kind permission to re-use his slides!
 
 ## You can view each of these notebooks using [Google Colab](https://colab.research.google.com/).
