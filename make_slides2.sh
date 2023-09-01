@@ -15,6 +15,6 @@ set -x
 jupyter nbconvert --to slides --no-prompt lecture_notebooks/*.ipynb
 
 # Move slides to output dir
-rm -rf lecture_slides
-mkdir lecture_slides
-mv lecture_notebooks/*slides.html ./lecture_slides/
+rm -rf slides
+mkdir slides
+mv lecture_notebooks/*slides.html ./slides/
