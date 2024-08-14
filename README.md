@@ -58,7 +58,7 @@ You can always exit out of the virtualenv by running `deactivate`.
 
 To install these notebooks in Python, clone the repo:  
 ```
-git clone https://github.com/benedictpaten/intro_python.git
+git clone https://github.com/cormacflanagan/intro_python.git
 cd intro_python
 ```
 
